@@ -33,4 +33,5 @@ and the impact of online ordering on restaurant performance.
 - `visuals/` — EDA charts generated in Python
 
 ## Dashboard Preview
-[Insert dashboard screenshot here]
+<img width="662" height="493" alt="dashboard_ss" src="https://github.com/user-attachments/assets/1b7c735c-beba-408f-87fb-52c07cad5a4a" />
+
