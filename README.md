@@ -27,7 +27,6 @@ and the impact of online ordering on restaurant performance.
    being the busiest area — quality over quantity
 
 ## Files
-- `zomato_cleaned.csv` — cleaned dataset
 - `analysis.sql` — 5 business SQL queries with insights
 - `zomato_dashboard.pdf` — Power BI dashboard export
 - `visuals/` — EDA charts generated in Python
