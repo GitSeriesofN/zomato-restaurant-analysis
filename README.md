@@ -35,5 +35,3 @@ Identify what actually drives restaurant ratings in Bangalore — location satur
 <img width="662" height="493" alt="dashboard_ss" src="https://github.com/user-attachments/assets/80c4c6a5-2804-4ca4-b102-c8a50e27276f" />
 
 
-![Dashboard](dashboard_ss.png)
-
